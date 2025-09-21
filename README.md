@@ -35,11 +35,11 @@ Menjalankan aplikasi di emulator/HP untuk melihat hasil tampilan control bar.
 
 Cuplikan Kode 
 
-![alt text](Pict/flutter_01.png)
+![alt text](Pict/Spotify.png)
 
 Screenshot
 
-![alt text](Pict/Spotify.png)
+![alt text](Pict/flutter_01.png)
 
 Tombol Play terlihat lebih besar dibanding tombol lainnya.
 
